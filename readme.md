@@ -1,4 +1,4 @@
--- Jordan Dunbrack's Hatchways Assessment Submission
+-- RESTful API built on Node, Express, and MongoDB
 
 ----------------
 Installation:
